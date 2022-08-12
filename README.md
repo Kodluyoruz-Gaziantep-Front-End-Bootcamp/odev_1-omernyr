@@ -1,5 +1,5 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Ödev 1```
 
 # Homework 
 ```Ödev```
@@ -12,4 +12,4 @@
 
 ## Author
 
-```Ödevi yapan```
+```Ömer Nayır```
